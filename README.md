@@ -16,7 +16,7 @@ Installation
 Clone the Repository:
 
 
-git clone https://github.com/your-username/personal-finance-tracker.git
+git clone (https://github.com/helithjay/Personal-Finance-Tracker-List-Based-with-JSON-Serialization-/tree/main)
 cd personal-finance-tracker
 Ensure Python is Installed:
 This project requires Python 3.x. You can download it from python.org.
