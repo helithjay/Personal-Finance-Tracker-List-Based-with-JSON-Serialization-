@@ -18,7 +18,7 @@ Personal Finance Tracker is a simple Python application that allows users to man
 ## Installation
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/finance-tracker.git
+   https://github.com/helithjay/Personal-Finance-Tracker-List-Based-with-JSON-Serialization-.git
    ```
 2. Navigate to the project directory:
    ```sh
