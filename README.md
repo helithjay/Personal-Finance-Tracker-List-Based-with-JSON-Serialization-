@@ -28,7 +28,8 @@ Run the Application:
 Execute the Python script to start the finance tracker:
 
 
-python finance_tracker.py
+code.py
+
 Usage
 Main Menu:
 When you run the program, you'll see a menu with the following options:
